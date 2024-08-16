@@ -1,0 +1,14 @@
+# Ambiente virtual
+/venv
+
+# datasets
+/datasets
+
+*.ipynb
+*.jpg
+
+__pycache__/
+
+/insight/
+/files/datasets/intermediate
+/files/datasets/output
